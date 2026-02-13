@@ -72,3 +72,55 @@ body {
 .btn:hover {
   background: white;
 }
+.footer-container{
+    margin-top: 136px;
+    background: #F2F5F9;
+    max-width: 1920;
+    height: 309px;
+}
+
+a{
+    color: #fff;
+
+}
+.footer-cols{
+    display: flex;
+    gap: 20px;
+}
+.link-icons{
+    margin-left: 13px;
+}
+.network{
+    color: #A1ABB9;
+    font-size: 16px;
+    font-weight: 400;
+}
+.ic-network{
+    padding-top: 15px;
+    display: flex;
+    gap: 20px;
+    
+}
+.down-text{
+    padding-top: 72px;
+    color: #7E8794;
+    font-size: 16px;
+    font-weight: 400;
+}
+.userss{
+    margin-left: 110px
+}
+.usersss{
+    margin-left: 110px;
+}
+.user{
+    color:  #A1ABB9;
+    font-size: 16px;
+    font-weight: 400;
+}
+.user-tx{
+    color: #263141;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 16px;
+}
